@@ -9,5 +9,18 @@
         "name": "Nguyễn Đăng Khải"
     },
     "items": [
+        {
+            "id": "https://nguyenkhai03.github.io/gh-pages/networking-basics-issued-by-cisco.html",
+            "url": "https://nguyenkhai03.github.io/gh-pages/networking-basics-issued-by-cisco.html",
+            "title": "Networking Basics ",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://nguyenkhai03.github.io/gh-pages/media/posts/11/Networking_Basics_Badge20241231-28-awe0qc.jpg\" alt=\"\" width=\"3300\" height=\"2550\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://nguyenkhai03.github.io/gh-pages/media/posts/11/responsive/Networking_Basics_Badge20241231-28-awe0qc-xs.jpg 300w ,https://nguyenkhai03.github.io/gh-pages/media/posts/11/responsive/Networking_Basics_Badge20241231-28-awe0qc-sm.jpg 480w ,https://nguyenkhai03.github.io/gh-pages/media/posts/11/responsive/Networking_Basics_Badge20241231-28-awe0qc-md.jpg 768w ,https://nguyenkhai03.github.io/gh-pages/media/posts/11/responsive/Networking_Basics_Badge20241231-28-awe0qc-lg.jpg 1024w ,https://nguyenkhai03.github.io/gh-pages/media/posts/11/responsive/Networking_Basics_Badge20241231-28-awe0qc-xl.jpg 1360w ,https://nguyenkhai03.github.io/gh-pages/media/posts/11/responsive/Networking_Basics_Badge20241231-28-awe0qc-2xl.jpg 1600w\"></figure>",
+            "author": {
+                "name": "Nguyễn Đăng Khải"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-12-31T23:39:31+07:00",
+            "date_modified": "2024-12-31T23:40:37+07:00"
+        }
     ]
 }
