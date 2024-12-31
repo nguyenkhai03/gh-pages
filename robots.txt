@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nguyenkhai03.github.io/gh-pages/sitemap.xml
